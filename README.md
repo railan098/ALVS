@@ -1,2 +1,0 @@
-# CFTC
-site-segurança-eletronica
